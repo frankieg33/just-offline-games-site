@@ -8,7 +8,7 @@ Quick answers to common questions, plus how to get in touch.
 
 ## My device
 
-- Spaced Math runs on iPhone and iPad with iOS 16.0 or later.
+- Just Offline Games runs on iPhone and iPad with iOS 16.0 or later.
 - All features work offline.
 
 ## Contact
